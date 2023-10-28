@@ -2,12 +2,12 @@
 ### I am...
 
 ### Inside of School 
-tennis
-classes (재미있었던 수업: criminal, physics, history, phsychology...)
-stage tech
-jornalism (쓴 기사, 관리하는 저널리즘 홈피)
+- tennis
+- classes (재미있었던 수업: criminal, physics, history, phsychology...)
+- stage tech
+- jornalism (쓴 기사, 관리하는 저널리즘 홈피)
 
-clubs
+- clubs
 
 
 ### Outside of School (volunteer)
