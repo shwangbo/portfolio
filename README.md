@@ -1,1 +1,23 @@
-# portfolio
+# Who I Am
+### I am...
+
+### Inside of School 
+tennis
+classes (재미있었던 수업: criminal, physics, history, phsychology...)
+stage tech
+jornalism (쓴 기사, 관리하는 저널리즘 홈피)
+
+clubs
+
+
+### Outside of School (volunteer)
+mexico
+homeless
+dreamcatcher
+
+### Research
+Gwangju
+Canada
+
+### Hobby
+photo
