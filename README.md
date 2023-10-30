@@ -9,6 +9,9 @@
 
 - clubs
 - [Gunn High](https://gunn.pausd.org/)
+- URL, email
+  <https://www.markdownguide.org>
+  <fake@example.com>
 
 ### Outside of School (volunteer)
 mexico
