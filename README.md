@@ -8,7 +8,7 @@
 - jornalism (쓴 기사, 관리하는 저널리즘 홈피)
 
 - clubs
-
+- [Gunn High](https://gunn.pausd.org/)
 
 ### Outside of School (volunteer)
 mexico
