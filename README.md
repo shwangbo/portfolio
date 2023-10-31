@@ -6,17 +6,17 @@
     나를 릴렉스하게 만드는 것들에 대해 소개하려고 한다.
     
 ### 대학에서 내가 하려는 Academical jorney 
-    다음 수업이 너무 기대가 되었던 수업들이 있다. 
-    * 9학년에는 history, 
-    - 10학년에는 criminal, 
-    - 11학년에는 physics, AP history, english 
-    - 12에는 AP environment science, AP phsychology 이고 
-    학교에서 배운 것들을 통해 관심이 생긴 역사 리서치 2편
-    - Gwangju
-    - Canada
-    온라인 수업
-    - 
-    - 
+    1. 다음 수업이 너무 기대가 되었던 수업들이 있다. 
+       * 9학년에는 history, 
+       - 10학년에는 criminal, 
+       - 11학년에는 physics, AP history, english 
+       - 12에는 AP environment science, AP phsychology 이고 
+    2. 학교에서 배운 것들을 통해 관심이 생긴 역사 리서치 2편
+       - Gwangju
+       - Canada
+    3. 온라인 수업
+       - 
+       - 
 
     학교 수업, 리서치, 온라인 수업이 내의 학업적인 여정이였고,
     세상의 크고 작은 범죄들을 예방하고 싶다는 목표를 갖게 되었다. 
