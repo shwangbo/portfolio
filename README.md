@@ -6,8 +6,8 @@
     나를 릴렉스하게 만드는 것들에 대해 소개하려고 한다.
     
 ### 대학에서 내가 하려는 Academical jorney 
-##### 1. 다음 수업이 너무 기대가 되었던 수업들이 있다. 
-- 9학년에는 history, 
+#### 1. 다음 수업이 너무 기대가 되었던 수업들이 있다. 
+##### - 9학년에는 history, 
 - 10학년에는 criminal, 
 - 11학년에는 physics, AP history, english 
 - 12에는 AP environment science, AP phsychology 이고 
