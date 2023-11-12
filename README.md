@@ -41,10 +41,17 @@
 >   - Online Editor (2023-2024)
 > - Yearbook
 >   - Freelance Photographer (2022-2023,2023-2024)
-> - Clubs
->   - 412 Christian Club, VP (2021-2022),President (2022-2023, 2023-2024)
->   - Culture Connection Club, Korean Team Leader (2023-2024), Korean Translator (2020-2024)
->   - Pandora's Box Creative Magazine, Layout Officer (2023-2023)
+> - Clubs (각 클럽에 너에게 끼친 영향? 너한테 의미?)
+>   - 412 Christian Club
+>     - 클럽에 대한 설명, 미국 전체 크리스찬클럽, 활동 내용(pray at the pole....)
+>     - VP (2021-2022),President (2022-2023, 2023-2024)
+>     - 니가 한 일
+>   - Culture Connection Club
+>     - 클럽에 대한 설명(가치)
+>     - Korean Team Leader (2023-2024), Korean Translator (2020-2024)
+>   - Pandora's Box Creative Magazine 
+>     - 클럽에 대한 설명
+>     - Layout Officer (2023-2023)
 <!-- - URL, email -->
 <!--  <https://www.markdownguide.org> -->
 <!-- <fake@example.com> -->
