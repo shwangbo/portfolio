@@ -38,19 +38,19 @@
 <!-- <fake@example.com> -->
 >
 > #### Outside of School (volunteer)
-> [DreamCatchers](https://www.dreamcatchersyouth.org/)
-> [Prosetrain]
-> [JAMMA Tennis Clinic](https://jammatennis.com/)
-> Mexico Mission
-> 간단한 설명과 나에게 준 영향
-> Homeless Mission
-> - San Francisco City Impact
-> - Living water
-> - Winter ... 
-> Saenuri Youth 오케, 합창
-> - Salvation Army
-> - Hope's corner : soup kitchen
-> Saenuri VBS volunteer
+> - [DreamCatchers](https://www.dreamcatchersyouth.org/)
+> - [Prosetrain]
+> - [JAMMA Tennis Clinic](https://jammatennis.com/) <br>
+> - Mexico Mission
+>   - 간단한 설명과 나에게 준 영향
+> - Homeless Mission
+>   - San Francisco City Impact
+>   - Living water
+>   - Winter ... 
+> - Saenuri Youth 오케, 합창
+>   - Salvation Army
+>   - Hope's corner : soup kitchen
+> - Saenuri VBS volunteer
 
 
 ## Hobby
