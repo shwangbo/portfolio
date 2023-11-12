@@ -29,7 +29,10 @@
  
 ## Activities
 > #### Inside of School 
-> - tennis
+> - [Tennis](https://www.instagram.com/gunngirlsvarsitytennis/?igshid=MzRlODBiNWFlZA%3D%3D)
+>   - 
+>   - Junior Varisty (2021), Captain (2021)
+>   - Varsity (2022, 2023), Captain (2023) 
 > - stage tech
 > - [Jornalism](https://gunnoracle.com/) (쓴 기사, 관리하는 저널리즘 홈피)
 >   - Reporter (2022-2023)
