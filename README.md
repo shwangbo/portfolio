@@ -20,10 +20,12 @@
 - [International Criminal Law](https://www.coursera.org/learn/international-criminal-law?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER__coursera_FTCOF_career-academy_pmax-enhanced-NRL-w/in-14d-new-cust-country-US-country-CA&campaignid=20397118025&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzpN-h3rE0EU1lECxa5mrFnLyCR_vAuz7mFlB7e3tR3EPoufzpL9_dEaAvvHEALw_wcB), [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_intlcriminallaw_certificate.pdf)
 - [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology), [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_introtopsychology_certificate.pdf)
 
+#
     학교 수업, 리서치, 온라인 수업이 내의 학업적인 여정이였고,
     세상의 크고 작은 범죄들을 예방하고 싶다는 목표를 갖게 되었다. 
     이런 나의 목표를 갖게되니 socialogy, psychology, criminology 등에 큰 관심을 갖게됨. 
     대학에서 이 분야를 공부하고 싶다
+  
 ##### 
 #####
 ### Inside of School 
