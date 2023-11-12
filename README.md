@@ -31,8 +31,13 @@
 > #### Inside of School 
 > - tennis
 > - stage tech
-> - jornalism (쓴 기사, 관리하는 저널리즘 홈피)
+> - [Jornalism](https://gunnoracle.com/) (쓴 기사, 관리하는 저널리즘 홈피)
+>   - Reporter (2022-2023)
+>   - Online Editor (2023-2024)
 > - clubs
+>   - 412 Christian Club, VP (2021-2022),President (2022-2023, 2023-2024)
+>   - Culture Connection Club, Korean Team Leader (2023-2024), Korean Translator (2020-2024)
+>   - Pandora's Box Creative Magazine, Layout Officer (2023-2023)
 <!-- - URL, email -->
 <!--  <https://www.markdownguide.org> -->
 <!-- <fake@example.com> -->
