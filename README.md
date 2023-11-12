@@ -11,15 +11,14 @@
 > - 10학년에는 criminal, 
 > - 11학년에는 physics, AP history, english 
 > - 12에는 AP environment science, AP phsychology 이고
-
-   
+>    
 > #### 학교에서 배운 것들을 통해 관심이 생긴 역사 리서치 2편 (간단한 요약)
 > - [Gwangju](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_May 18 Democratic.pdf)
 > - [Canada](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_Canadian Residential Schools_SECOND ESSAY.pdf)
-
-#### 온라인 수업
-- [International Criminal Law](https://www.coursera.org/learn/international-criminal-law?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER__coursera_FTCOF_career-academy_pmax-enhanced-NRL-w/in-14d-new-cust-country-US-country-CA&campaignid=20397118025&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzpN-h3rE0EU1lECxa5mrFnLyCR_vAuz7mFlB7e3tR3EPoufzpL9_dEaAvvHEALw_wcB), [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_intlcriminallaw_certificate.pdf)
-- [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology), [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_introtopsychology_certificate.pdf)
+>
+> #### 온라인 수업
+> - [International Criminal Law](https://www.coursera.org/learn/international-criminal-law?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER__coursera_FTCOF_career-academy_pmax-enhanced-NRL-w/in-14d-new-cust-country-US-country-CA&campaignid=20397118025&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzpN-h3rE0EU1lECxa5mrFnLyCR_vAuz7mFlB7e3tR3EPoufzpL9_dEaAvvHEALw_wcB), [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_intlcriminallaw_certificate.pdf)
+> - [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology), [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_introtopsychology_certificate.pdf)
 
 
     학교 수업, 리서치, 온라인 수업이 내의 학업적인 여정이였고,
