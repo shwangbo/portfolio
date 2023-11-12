@@ -27,29 +27,32 @@
     대학에서 이 분야를 공부하고 싶다
   
  
+## Activities
+> #### Inside of School 
+> - tennis
+> - stage tech
+> - jornalism (쓴 기사, 관리하는 저널리즘 홈피)
+> - clubs
+<!-- - URL, email -->
+<!--  <https://www.markdownguide.org> -->
+<!-- <fake@example.com> -->
+>
+> #### Outside of School (volunteer)
+> [DreamCatchers](https://www.dreamcatchersyouth.org/)
+> [Prosetrain]
+> [JAMMA Tennis Clinic](https://jammatennis.com/)
+> Mexico Mission
+> 간단한 설명과 나에게 준 영향
+> Homeless Mission
+> - San Francisco City Impact
+> - Living water
+> - Winter ... 
+> Saenuri Youth 오케, 합창
+> - Salvation Army
+> - Hope's corner : soup kitchen
+> Saenuri VBS volunteer
 
-### Inside of School 
-- tennis
-- classes (재미있었던 수업: criminal, physics, history, phsychology...)
-- stage tech
-- jornalism (쓴 기사, 관리하는 저널리즘 홈피)
 
-- clubs
-- [Gunn High](https://gunn.pausd.org/)
-- URL, email
-  <https://www.markdownguide.org>
-  <fake@example.com>
-
-### Outside of School (volunteer)
-dreamcatcher
-postrain
-mexico
-homeless
-
-
-### Research
-Gwangju
-Canada
-
-### Hobby
-photo
+## Hobby
+> #### Photo
+> #### Reading book
