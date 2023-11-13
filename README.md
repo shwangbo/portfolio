@@ -34,22 +34,27 @@
 >   - Junior Varisty (2021), Captain (2021)
 >   - Varsity (2022, 2023), Captain (2023) 
 > - Stage Tech
->   - Team work,
+>   - Team work와 완성 후 공연을 보면서 보람을 느낌, 가장기억에 남는 공연은 하이스쿨뮤지컬, 이유
 > - [Jornalism](https://gunnoracle.com/) (쓴 기사, 관리하는 저널리즘 홈피)
->   - Reporter (2022-2023)
->   - Photographer (2022-2023, 2023-2024)
+>   - 학교 구성원들을 직접 인터뷰가면서 각각에 대해 인사이트를 갖게 됨
+>   - Reporter (2022-2023): 쓴 기사 링크
+>   - Photographer (2022-2023, 2023-2024):찍은 사진
 >   - Online Editor (2023-2024)
 > - Yearbook
->   - Freelance Photographer (2022-2023,2023-2024)
+>   - 
+>   - Freelancer Photographer (2022-2023,2023-2024)
 > - Clubs (각 클럽에 너에게 끼친 영향? 너한테 의미?)
->   - 412 Christian Club
+>   - [412 Christian Club](https://www.instagram.com/412.gcc/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
 >     - 클럽에 대한 설명, 미국 전체 크리스찬클럽, 활동 내용(pray at the pole....)
 >     - VP (2021-2022),President (2022-2023, 2023-2024)
 >     - 니가 한 일
 >   - Culture Connection Club
 >     - 클럽에 대한 설명(가치)
+>     - https://gunn.paloaltopta.org/enews/
+>     - https://gunn.paloaltopta.org/enews/enews-korean-translation/
+>     - google docs에 직접 번역한 리스트
 >     - Korean Team Leader (2023-2024), Korean Translator (2020-2024)
->   - Pandora's Box Creative Magazine 
+>   - [Pandora's Box Creative Magazine](https://www.instagram.com/gunnpbox/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) 
 >     - 클럽에 대한 설명
 >     - Layout Officer (2023-2023)
 <!-- - URL, email -->
@@ -58,18 +63,21 @@
 >
 > #### Outside of School (volunteer)
 > - [DreamCatchers](https://www.dreamcatchersyouth.org/)
-> - [Prosetrain]
+>   - 설명과 너에게 이 봉사의 의미,좋았던 점 
+> - [Prosetrain]()
+>   - 설명 
 > - [JAMMA Tennis Clinic](https://jammatennis.com/) <br>
-> - Mexico Mission
+>   - 설명
+> - Mexico Mission : web page
 >   - 간단한 설명과 나에게 준 영향
-> - Homeless Mission
+> - Homeless Mission : web page
 >   - San Francisco City Impact
 >   - Living water
 >   - Winter ... 
-> - Saenuri Youth 오케, 합창
+> - Saenuri Youth 오케, 합창 : 
 >   - Salvation Army
 >   - Hope's corner : soup kitchen
-> - Saenuri VBS volunteer
+> - Saenuri VBS volunteer :
 
 
 ## Hobby
