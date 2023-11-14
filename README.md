@@ -13,9 +13,9 @@
 > - 12에는 AP environment science, AP phsychology 이고
 >    
 > #### 학교에서 배운 것들을 통해 관심이 생긴 역사 리서치 2편 (간단한 요약)
-> - [May 18 Democratic](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_May 18 Democratic.pdf)
+> - [May 18 Democratic](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_May 18 Democratic.pdf)   
 >   - 
-> - [Canadian Residential Schools](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_Canadian Residential Schools_SECOND ESSAY.pdf)
+> - [Canadian Residential Schools](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_Canadian Residential Schools_SECOND ESSAY.pdf)   
 >   - 
 >   
 > #### 온라인 수업
