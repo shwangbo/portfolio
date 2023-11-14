@@ -5,7 +5,7 @@
     학교 안,밖에서의 활동과 봉사,멕시코 선교
     나를 릴렉스하게 만드는 것들에 대해 소개하려고 한다.
     
-## 대학에서 내가 하려는 Academical jorney 
+## 대학에서 내가 하려는 Academical journey 
 > #### 다음 수업이 너무 기대가 되었던 수업들이 있다. 
 > - 9학년에는 history, 
 > - 10학년에는 criminal, 
@@ -14,12 +14,15 @@
 >    
 > #### 학교에서 배운 것들을 통해 관심이 생긴 역사 리서치 2편 (간단한 요약)
 > - [May 18 Democratic](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_May 18 Democratic.pdf)
+>   -
 > - [Canadian Residential Schools](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_Canadian Residential Schools_SECOND ESSAY.pdf)
->
+>   -
+>   
 > #### 온라인 수업
 > - [International Criminal Law](https://www.coursera.org/learn/international-criminal-law?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER__coursera_FTCOF_career-academy_pmax-enhanced-NRL-w/in-14d-new-cust-country-US-country-CA&campaignid=20397118025&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzpN-h3rE0EU1lECxa5mrFnLyCR_vAuz7mFlB7e3tR3EPoufzpL9_dEaAvvHEALw_wcB), [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_intlcriminallaw_certificate.pdf)
+>   -
 > - [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology), [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_introtopsychology_certificate.pdf)
-
+>   - 
 
     학교 수업, 리서치, 온라인 수업이 내의 학업적인 여정이였고,
     세상의 크고 작은 범죄들을 예방하고 싶다는 목표를 갖게 되었다. 
@@ -33,7 +36,7 @@
 >   - 
 >   - Junior Varisty (2021), Captain (2021)
 >   - Varsity (2022, 2023), Captain (2023) 
-> - Stage Tech
+> - Stage Tech : web page
 >   - Team work와 완성 후 공연을 보면서 보람을 느낌, 가장기억에 남는 공연은 하이스쿨뮤지컬, 이유
 > - [Jornalism](https://gunnoracle.com/) (쓴 기사, 관리하는 저널리즘 홈피)
 >   - 학교 구성원들을 직접 인터뷰가면서 각각에 대해 인사이트를 갖게 됨
