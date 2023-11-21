@@ -78,7 +78,10 @@
 >   - [멕세코 단기 활동 사진 소개](https://www.saenurifamily.com/bbs/board.php?bo_table=journal&wr_id=1350&page=6&me_code=)
 > - Homeless Mission : web page
 >   - [San Francisco City Impact](https://sfcityimpact.com/)
->     
+>     - 스토어에서 이른 아침 도네이션 되는 음식 팩킹 및 분배
+>     - 봉사자인 전문 쉐프와 점심 식사 준비 및 배식
+>     - 노숙자들과 대화 및 간단한 음식 전달
+>     - San Francisco City impact 
 >   - Living water
 >   - Winter ... 
 > - Saenuri Youth 오케, 합창 : 
