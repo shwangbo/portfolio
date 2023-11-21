@@ -84,5 +84,5 @@
 
 
 ## Hobby
-> #### [Photo](https://sophiahwb.wixsite.com/my-site-1?pgid=lp0brrja-25a9ec56-2663-4d64-b354-72b9c8a5f5fa)
+> #### [Photo](https://sophiahwb.wixsite.com/my-site-1)
 > #### Reading book()
