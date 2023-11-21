@@ -38,7 +38,7 @@
 >   - Varsity (2022, 2023), Captain (2023)
 >   - Award
 >     - Junior Varsity MVP (2021)
->     - Varsity Coach award (2023)
+>     - Varsity Coach Award (2023)
 > - Stage Tech : web page
 >   - Team work와 완성 후 공연을 보면서 보람을 느낌, 가장기억에 남는 공연은 하이스쿨뮤지컬, 이유
 > - [Jornalism](https://gunnoracle.com/) (쓴 기사, 관리하는 저널리즘 홈피)
@@ -72,9 +72,13 @@
 > - [JAMMA Tennis Clinic](https://jammatennis.com/) <br>
 >   - 설명
 > - Mexico Mission : web page
->   - 간단한 설명과 나에게 준 영향
+>   - 목적, Youth
+>   - 교회 시설 페인트, VBS, 가정방문, 생필품 전달(누구에게), 감옥방문 해서 뭐했나, (2022)
+>   - 멕시코 단기 선교 준비(2023)
+>   - [멕세코 단기 활동 사진 소개](https://www.saenurifamily.com/bbs/board.php?bo_table=journal&wr_id=1350&page=6&me_code=)
 > - Homeless Mission : web page
->   - San Francisco City Impact
+>   - [San Francisco City Impact](https://sfcityimpact.com/)
+>     
 >   - Living water
 >   - Winter ... 
 > - Saenuri Youth 오케, 합창 : 
@@ -83,6 +87,6 @@
 > - Saenuri VBS volunteer :
 
 
-## Hobby
+## Hobby( What make me relax )
 > #### [Photo](https://sophiahwb.wixsite.com/my-site-1)
-> #### Reading book()
+> #### [Reading book]()
