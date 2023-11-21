@@ -33,9 +33,12 @@
 ## Activities
 > #### Inside of School 
 > - [Tennis Team](https://www.instagram.com/gunngirlsvarsitytennis/?igshid=MzRlODBiNWFlZA%3D%3D)
->   - 
+>   - 설명
 >   - Junior Varisty (2021), Captain (2021)
->   - Varsity (2022, 2023), Captain (2023) 
+>   - Varsity (2022, 2023), Captain (2023)
+>   - Award
+>     - Junior Varsity MVP (2021)
+>     - Varsity Coach award (2023)
 > - Stage Tech : web page
 >   - Team work와 완성 후 공연을 보면서 보람을 느낌, 가장기억에 남는 공연은 하이스쿨뮤지컬, 이유
 > - [Jornalism](https://gunnoracle.com/) (쓴 기사, 관리하는 저널리즘 홈피)
@@ -60,9 +63,6 @@
 >   - [Pandora's Box Creative Magazine](https://www.instagram.com/gunnpbox/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) 
 >     - 클럽에 대한 설명
 >     - Layout Officer (2023-2023)
-<!-- - URL, email -->
-<!--  <https://www.markdownguide.org> -->
-<!-- <fake@example.com> -->
 >
 > #### Outside of School (volunteer)
 > - [DreamCatchers](https://www.dreamcatchersyouth.org/)
@@ -84,5 +84,5 @@
 
 
 ## Hobby
-> #### Photo
-> #### Reading book
+> #### [Photo](https://sophiahwb.wixsite.com/my-site-1)
+> #### Reading book()
