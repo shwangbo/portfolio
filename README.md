@@ -75,7 +75,7 @@
 >   - 목적, Youth
 >   - 교회 시설 페인트, VBS, 가정방문, 생필품 전달(누구에게), 감옥방문 해서 뭐했나, (2022)
 >   - 멕시코 단기 선교 준비(2023)
->   - [멕세코 단기 활동 사진 소개](https://www.saenurifamily.com/bbs/board.php?bo_table=journal&wr_id=1350&page=6&me_code=)
+>   - [멕세코 단기 활동 사진 소개](https://sophiahwb.wixsite.com/my-site)
 > - Homeless Mission : web page
 >   - [San Francisco City Impact](https://sfcityimpact.com/)
 >     - 스토어에서 이른 아침 도네이션 되는 음식 팩킹 및 분배
