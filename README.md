@@ -104,6 +104,7 @@
 > #### [Photos](https://sophiahwb.wixsite.com/photography)
 > - Enjoy finding the tranquility and beauty within nature
 > - Allow me to step back from my hectic day to appreciate the fine details nature offers me
+>   
 > #### [Reading](https://sophiahwb.wixsite.com/reading)
 > - Transports me to another world full of possibilities and imagination
 > - Also a way for me to expand me knowledge
