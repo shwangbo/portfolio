@@ -1,7 +1,5 @@
 # Who I Am
-## I am...
-    This is an introduction to the experiences, academics, further academic plans, 
-    extracurriculars, volunteers, and hobbies that makes me who I am.
+##### This is an introduction to the experiences, academics, further academic plans, extracurriculars, volunteers, and hobbies that makes me who I am.
     
 ## My Academic Journey Leading to College 
 > #### Classes I was looking forward to: 
