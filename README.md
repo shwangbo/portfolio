@@ -24,6 +24,7 @@
 
 ##### After taking school and online classes,and conducting research, I now have a goal of preventing big and small crimes in the world. With this interest in mind, I plan on exploring the fields of sociology, psychology, and criminology at college
   
+
  
 ## Activities
 > #### Inside of School 
@@ -73,7 +74,7 @@
 > - [JAMMA Tennis Clinic](https://jammatennis.com/) <br>
 >   - Organization of student-run tennis clinics hosted across schools in the Bay Area
 >   - Participated as a coach for tennis clinic at Gunn; led drills and games; trained players to improve the physical and social behavior of all students
-> - [Mexico Mission](https://sophiahwb.wixsite.com/my-site)
+> - [Mexico Mission](https://sophiahwb.wixsite.com/mexicomission)
 >   - An annual week-long mission trip comprised of many youth students down to Mexico
 >   - As craft team leader, brainstormed craft ideas, prepared and purchased craft supplies as needed; as photographer team leader, delegated photo rotations to each member (2022-2023)
 >   - Painted the seminary we stayed at, hosted VBS at local churches, evening evangelism while handing out food to the locals, sang and handed out necessities in a juvenile center and drug rehab center (2022)
@@ -100,8 +101,12 @@
 
 
 ## Hobby( What make me relax )
-> #### [Photos](https://sophiahwb.wixsite.com/my-site-1)
+> #### [Photos](https://sophiahwb.wixsite.com/photography)
 > - Enjoy finding the tranquility and beauty within nature
 > - Allow me to step back from my hectic day to appreciate the fine details nature offers me
-> #### [Reading](https://sophiahwb.wixsite.com/my-site)
-> - 
+> #### [Reading](https://sophiahwb.wixsite.com/reading)
+> - Transports me to another world full of possibilities and imagination
+> - Also a way for me to expand me knowledge
+>   - Percy Jackson and The Olympians: an introduction into ancient Greek and Roman culture
+>   - Human Acts: an introduction to the impact of the May 18 Gwangju Uprising
+
