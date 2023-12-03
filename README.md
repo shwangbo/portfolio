@@ -38,13 +38,12 @@
 >   - Provided technical support for stage production; used power tools to build sets; come in on weekdays and weekends outside of class to build.
 >   - Loved going to watch the plays and see how the set I spent hours building enhanced the production
 > - [Jornalism](https://gunnoracle.com/) 
->   - Reporter (2022-2023): 쓴 기사 링크
->   - Photographer (2022-2023, 2023-2024):찍은 사진
+>   - Reporter (2022-2023)
+>   - Photographer (2022-2023, 2023-2024)
 >   - Online Editor (2023-2024)
 >   - Contributed to story ideas, brainstormed and implemented multimedia elements to website
 >   - Gained insight into each school issue, and got to reach out to various sources through interviews
 > - Yearbook
->   - 
 >   - Freelancer Photographer (2022-2023,2023-2024)
 > - Clubs
 >   - [412 Christian Club](https://www.instagram.com/412.gcc/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
@@ -64,9 +63,13 @@
 >
 > #### Outside of School Volunteering
 > - [DreamCatchers](https://www.dreamcatchersyouth.org/)
->   -  
+>   - Organization in Palo Alto that focuses on low-income students or those who do not have the environment to study at home
+>   - Local high school and college students volunteer to tutor middle schoolers in mainly math and English, and assist with school work
+>   - Promoted social and emotional learning, building a close mentoring relationship with student
+>   - Helped students develop study habits through tutoring and promoting the importance of academic learning 
 > - [Prosetrain]()
->   -  
+>   - A collaborative writing project where global students can sign up to write short stories based on a variety of prompts together
+>   - As a project manager, organized writers and writing dates through Google Contacts and spreadsheets, sent out forms for writers to vote on prompts and titles, edited daily writing, and uploaded finished stories onto the website 
 > - [JAMMA Tennis Clinic](https://jammatennis.com/) <br>
 >   - Organization of student-run tennis clinics hosted across schools in the Bay Area
 >   - Participated as a coach for tennis clinic at Gunn; led drills and games; trained players to improve the physical and social behavior of all students
