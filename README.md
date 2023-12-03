@@ -1,24 +1,23 @@
 # Who I Am
 ## I am...
-    유전적인 나와 커오면서 겪은 많은 경험과 학습이 나를 이룬 것
-    공부해 온 것이 앞으로 공부하려고 하는 것들
-    학교 안,밖에서의 활동과 봉사,멕시코 선교
-    나를 릴렉스하게 만드는 것들에 대해 소개하려고 한다.
+    This is an introduction to the experiences, academics, further academic plans, 
+    extracurriculars, volunteers, and hobbies that makes me who I am.
     
-## 대학에서 내가 하려는 Academical journey 
-> #### 다음 수업이 너무 기대가 되었던 수업들이 있다. 
-> - 9학년에는 history, 
-> - 10학년에는 criminal, 
-> - 11학년에는 physics, AP history, english 
-> - 12에는 AP environment science, AP phsychology 이고
+## My Academic Journey Leading to College 
+> #### Classes I was looking forward to: 
+> - 9th Grade: World History, 
+> - 10th Grade: CriminalCivil Law, Beginning Journalism
+> - 11th Grade: Physics 1, AP US History, Film Literature
+> - 12th Grade: Ap Environmental Science, AP Psychology
 >    
-> #### 학교에서 배운 것들을 통해 관심이 생긴 역사 리서치 2편 (간단한 요약)
+> #### Two Historical Research Papers that Stemmed from School Subjects
 > - [May 18 Democratic](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_May 18 Democratic.pdf)   
->   - 
+>   - In May 1980, students in the Southwest city of Gwanju led a protest against the martial law placed over the entire nation by the dictatorship in Korea.On May 18, protesters clashed with military forces sent to stop the protests. For ten days, the national military brutally suppressed the people indiscriminately, massacring many children and students. This event is widely acknowledged in Korea as an important protest and start of democracy in Korea
+
 > - [Canadian Residential Schools](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_Canadian Residential Schools_SECOND ESSAY.pdf)   
->   - 
+>   - Canadian Residential Schools were a systematic series of boarding schools where indigenous children were forced to enroll and were stripped of their culture and identity in these schools as an effort to assimilate them into Canadian society. Many children died as a result of malnutrition, abuse and disease from poor living spaces. These deaths were often improperly dealt with, leaving missing children when the schools closed down.
 >   
-> #### 온라인 수업
+> #### Online College Classes
 > - [International Criminal Law](https://www.coursera.org/learn/international-criminal-law?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER__coursera_FTCOF_career-academy_pmax-enhanced-NRL-w/in-14d-new-cust-country-US-country-CA&campaignid=20397118025&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzpN-h3rE0EU1lECxa5mrFnLyCR_vAuz7mFlB7e3tR3EPoufzpL9_dEaAvvHEALw_wcB), [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_intlcriminallaw_certificate.pdf)
 >   - 
 > - [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology), [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_introtopsychology_certificate.pdf)
