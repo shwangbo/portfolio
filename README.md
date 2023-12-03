@@ -100,5 +100,8 @@
 
 
 ## Hobby( What make me relax )
-> #### [Photo](https://sophiahwb.wixsite.com/my-site-1)
-> #### [Reading book](https://theprosetrain.com/)
+> #### [Photos](https://sophiahwb.wixsite.com/my-site-1)
+> - Enjoy finding the tranquility and beauty within nature
+> - Allow me to step back from my hectic day to appreciate the fine details nature offers me
+> #### [Reading](https://sophiahwb.wixsite.com/my-site)
+> - 
