@@ -7,7 +7,10 @@
 > - 10th Grade: CriminalCivil Law, Beginning Journalism
 > - 11th Grade: Physics 1, AP US History, Film Literature
 > - 12th Grade: Ap Environmental Science, AP Psychology
->    
+> 
+> 
+> 
+> 
 > #### Two Historical Research Papers that Stemmed from School Subjects
 > - [May 18 Democratic](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_May 18 Democratic.pdf)   
 >   - In May 1980, students in the Southwest city of Gwanju led a protest against the martial law placed over the entire nation by the dictatorship in Korea.On May 18, protesters clashed with military forces sent to stop the protests. For ten days, the national military brutally suppressed the people indiscriminately, massacring many children and students. This event is widely acknowledged in Korea as an important protest and start of democracy in Korea
@@ -16,52 +19,54 @@
 >   - Canadian Residential Schools were a systematic series of boarding schools where indigenous children were forced to enroll and were stripped of their culture and identity in these schools as an effort to assimilate them into Canadian society. Many children died as a result of malnutrition, abuse and disease from poor living spaces. These deaths were often improperly dealt with, leaving missing children when the schools closed down.
 >   
 > #### Online College Classes
-> - [International Criminal Law](https://www.coursera.org/learn/international-criminal-law?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER__coursera_FTCOF_career-academy_pmax-enhanced-NRL-w/in-14d-new-cust-country-US-country-CA&campaignid=20397118025&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzpN-h3rE0EU1lECxa5mrFnLyCR_vAuz7mFlB7e3tR3EPoufzpL9_dEaAvvHEALw_wcB), [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_intlcriminallaw_certificate.pdf)
->   - 
-> - [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology), [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_introtopsychology_certificate.pdf)
->   - 
+> - [International Criminal Law](https://www.coursera.org/learn/international-criminal-law?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER__coursera_FTCOF_career-academy_pmax-enhanced-NRL-w/in-14d-new-cust-country-US-country-CA&campaignid=20397118025&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzpN-h3rE0EU1lECxa5mrFnLyCR_vAuz7mFlB7e3tR3EPoufzpL9_dEaAvvHEALw_wcB) by Case Western Reserve University, [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_intlcriminallaw_certificate.pdf)
+>   - An overview of international criminal law and courts, what crimes fall under the jurisdiction of international criminal courts, and past examples
+>   - A way of furthering my interest in crime; was the start of my interest in criminology
+> - [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology)by Yale University, [certificate](https://shwangbo.github.io/portfolio/assets/certificate/Coursera_introtopsychology_certificate.pdf)
+>   - Overview of the different approaches to psychology, memory, and happiness
+>   - A way of furthering my interest in psychology and how our brains function; got me interested in criminal psychology
 
-    학교 수업, 리서치, 온라인 수업이 내의 학업적인 여정이였고,
-    세상의 크고 작은 범죄들을 예방하고 싶다는 목표를 갖게 되었다. 
-    이런 나의 목표를 갖게되니 socialogy, psychology, criminology 등에 큰 관심을 갖게됨. 
-    대학에서 이 분야를 공부하고 싶다
+##### After taking school and online classes,and conducting research, I now have a goal of preventing big and small crimes in the world. With this interest in mind, I plan on exploring the fields of sociology, psychology, and criminology at college
   
  
 ## Activities
 > #### Inside of School 
 > - [Tennis Team](https://www.instagram.com/gunngirlsvarsitytennis/?igshid=MzRlODBiNWFlZA%3D%3D)
->   - 설명
 >   - Junior Varisty (2021), Captain (2021)
 >   - Varsity (2022, 2023), Captain (2023)
 >   - Award
 >     - Junior Varsity MVP (2021)
 >     - Varsity Coach Award (2023)
-> - Stage Tech : web page
->   - Team work와 완성 후 공연을 보면서 보람을 느낌, 가장기억에 남는 공연은 하이스쿨뮤지컬, 이유
-> - [Jornalism](https://gunnoracle.com/) (쓴 기사, 관리하는 저널리즘 홈피)
->   - 학교 구성원들을 직접 인터뷰가면서 각각에 대해 인사이트를 갖게 됨
+> - Stage Tech—Construction Crew
+>   - Built a set for: The Laramie Project (online), Something Rotten (2020-21); Comedy of Errors (2022); High School Musical (2023)
+>   - Provided technical support for stage production; used power tools to build sets; come in on weekdays and weekends outside of class to build.
+>   - Loved going to watch the plays and see how the set I spent hours building enhanced the production
+> - [Jornalism](https://gunnoracle.com/) 
 >   - Reporter (2022-2023): 쓴 기사 링크
 >   - Photographer (2022-2023, 2023-2024):찍은 사진
 >   - Online Editor (2023-2024)
+>   - Contributed to story ideas, brainstormed and implemented multimedia elements to website
+>   - Gained insight into each school issue, and got to reach out to various sources through interviews
 > - Yearbook
 >   - 
 >   - Freelancer Photographer (2022-2023,2023-2024)
-> - Clubs (각 클럽에 너에게 끼친 영향? 너한테 의미?)
+> - Clubs
 >   - [412 Christian Club](https://www.instagram.com/412.gcc/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
->     - 클럽에 대한 설명, 미국 전체 크리스찬클럽, 활동 내용(pray at the pole....)
->     - VP (2021-2022),President (2022-2023, 2023-2024)
->     - 니가 한 일
+>     - Vice President (2021-2022); President (2022-2023, 2023-2024)
+>     - Partnered with DecisionPoint, a national organization focused on assisting students in spreading the gospel
+>     - Led weekly club meetings, ranging from bible study to games, called in guest speakers, prepared foods, and publicized for outreaches, participated in national outreach days such as “See You at the Pole”
 >   - Culture Connection Club
->     - 클럽에 대한 설명(가치)
+>     - Korean Translator (2020-2024), Korean Team Leader (2023-2024)
+>     - Translates the Gunn e-news into Korean weekly for volunteer hours; As Korean team leader, in charge of creating translation documents, distributing, and reviewing translations, uploading translations onto the PTSA website, and logging volunteer hours. Also prepares slides for Korean culture presentations
 >     - https://gunn.paloaltopta.org/enews/
->     - https://gunn.paloaltopta.org/enews/enews-korean-translation/
->     - google docs에 직접 번역한 리스트
+>     - [List of translations](https://docs.google.com/document/d/1FgyNSLhP4M8zj_HDM5-YYxBJAZyNdRXbXmHfCTSTZp8/edit?usp=sharing) what I did
 >     - Korean Team Leader (2023-2024), Korean Translator (2020-2024)
 >   - [Pandora's Box Creative Magazine](https://www.instagram.com/gunnpbox/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) 
->     - 클럽에 대한 설명
 >     - Layout Officer (2023-2023)
+>     - A student-run creative magazine, featuring work by student artists, poets, writers, and photographers
+>     - As an officer, responsible for creating layouts, overseeing rotational layout members, and assisting with InDesign use when needed
 >
-> #### Outside of School (volunteer)
+> #### Outside of School Volunteering
 > - [DreamCatchers](https://www.dreamcatchersyouth.org/)
 >   - 설명과 너에게 이 봉사의 의미,좋았던 점 
 > - [Prosetrain]()
