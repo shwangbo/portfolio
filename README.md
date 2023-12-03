@@ -8,13 +8,9 @@
 > - 11th Grade: Physics 1, AP US History, Film Literature
 > - 12th Grade: Ap Environmental Science, AP Psychology
 > 
-> 
-> 
-> 
 > #### Two Historical Research Papers that Stemmed from School Subjects
 > - [May 18 Democratic](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_May 18 Democratic.pdf)   
 >   - In May 1980, students in the Southwest city of Gwanju led a protest against the martial law placed over the entire nation by the dictatorship in Korea.On May 18, protesters clashed with military forces sent to stop the protests. For ten days, the national military brutally suppressed the people indiscriminately, massacring many children and students. This event is widely acknowledged in Korea as an important protest and start of democracy in Korea
-
 > - [Canadian Residential Schools](https://shwangbo.github.io/portfolio/assets/research/Sophia Hwangbo_Canadian Residential Schools_SECOND ESSAY.pdf)   
 >   - Canadian Residential Schools were a systematic series of boarding schools where indigenous children were forced to enroll and were stripped of their culture and identity in these schools as an effort to assimilate them into Canadian society. Many children died as a result of malnutrition, abuse and disease from poor living spaces. These deaths were often improperly dealt with, leaving missing children when the schools closed down.
 >   
@@ -72,24 +68,32 @@
 > - [Prosetrain]()
 >   - 설명 
 > - [JAMMA Tennis Clinic](https://jammatennis.com/) <br>
->   - 설명
-> - Mexico Mission : web page
->   - 목적, Youth
->   - 교회 시설 페인트, VBS, 가정방문, 생필품 전달(누구에게), 감옥방문 해서 뭐했나, (2022)
->   - 멕시코 단기 선교 준비(2023)
->   - [멕세코 단기 활동 사진 소개](https://sophiahwb.wixsite.com/my-site)
-> - Homeless Mission : web page
+>   - Organization of student-run tennis clinics hosted across schools in the Bay Area
+>   - Participated as a coach for tennis clinic at Gunn; led drills and games; trained players to improve the physical and social behavior of all students
+> - [Mexico Mission](https://sophiahwb.wixsite.com/my-site)
+>   - An annual week-long mission trip comprised of many youth students down to Mexico
+>   - As craft team leader, brainstormed craft ideas, prepared and purchased craft supplies as needed; as photographer team leader, delegated photo rotations to each member (2022-2023)
+>   - Painted the seminary we stayed at, hosted VBS at local churches, evening evangelism while handing out food to the locals, sang and handed out necessities in a juvenile center and drug rehab center (2022)
+>   - 2023, wasn’t able to go but still participated in preparatio
+> - Homeless Mission
 >   - [San Francisco City Impact](https://sfcityimpact.com/)
->     - 스토어에서 이른 아침 도네이션 되는 음식 팩킹 및 분배
->     - 봉사자인 전문 쉐프와 점심 식사 준비 및 배식
->     - 노숙자들과 대화 및 간단한 음식 전달
->     - San Francisco City impact 
->   - Living water
->   - Winter ... 
-> - Saenuri Youth 오케, 합창 : 
+>     - Packed grocery bags with donated foods from local stores with other volunteers
+>     - Cooked and served free cooked meals for those in need
+>     - Participated in street evangelism while handing out food; engaged in conversation with people during the summer
+>   - Visit Homeless Village
+>     - Volunteered to provide meals at a local homeless shelter with fellow youth members and adult volunteers
+>     - Managed to engage in conversations with them, prayed with them, and handed out materials/goods prepared for them
+>     - During the COVID years, mainly helped with packing necessities
+> - Saenuri Youth Choir and Orchestra 
+>   - Participated as a violinist and vocalist: dedicated weekly practice meetings, monthly meetings, and various events during the major holidays throughout the year. Special events included regular performances at senior homes, soup kitchen events, and annual performances at the Salvation Army until COVID
 >   - Salvation Army
->   - Hope's corner : soup kitchen
-> - Saenuri VBS volunteer :
+>   - Hope’s Corner: a church dedicated to serving the homeless or underprivileged
+> - Saenuri VBS volunteer
+>   - Participated in every summer bible camp for elementary school-aged children and younger
+>   - Served as a station leader with crafts, arts, and other biblical projects. Ensured all children followed directions and provided
+>   - Guidance as needed. Managed roughly 10 children under my supervision during the station activities
+>   - Attended weekly meetings to prepare three to four months beforehand
+
 
 
 ## Hobby( What make me relax )
