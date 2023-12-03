@@ -6,10 +6,7 @@ logo: https://shwangbo.github.io/portfolio/assets/img/shwb_portfolio_head.jpg
 description: Minimal is a theme for GitHub Pages.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal #theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
+is_project_page: false
 
-#title: Cayman theme
-#description: Cayman is a clean, responsive theme for GitHub Pages.
-#show_downloads: true
-#google_analytics:
-#theme: jekyll-theme-cayman
+
