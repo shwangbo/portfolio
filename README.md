@@ -67,7 +67,7 @@
 >   - Local high school and college students volunteer to tutor middle schoolers in mainly math and English, and assist with school work
 >   - Promoted social and emotional learning, building a close mentoring relationship with student
 >   - Helped students develop study habits through tutoring and promoting the importance of academic learning 
-> - [Prosetrain]()
+> - [Prosetrain](https://theprosetrain.com/)
 >   - A collaborative writing project where global students can sign up to write short stories based on a variety of prompts together
 >   - As a project manager, organized writers and writing dates through Google Contacts and spreadsheets, sent out forms for writers to vote on prompts and titles, edited daily writing, and uploaded finished stories onto the website 
 > - [JAMMA Tennis Clinic](https://jammatennis.com/) <br>
@@ -83,7 +83,7 @@
 >     - Packed grocery bags with donated foods from local stores with other volunteers
 >     - Cooked and served free cooked meals for those in need
 >     - Participated in street evangelism while handing out food; engaged in conversation with people during the summer
->   - Visit Homeless Village
+>   - Visit homeless village
 >     - Volunteered to provide meals at a local homeless shelter with fellow youth members and adult volunteers
 >     - Managed to engage in conversations with them, prayed with them, and handed out materials/goods prepared for them
 >     - During the COVID years, mainly helped with packing necessities
@@ -101,4 +101,4 @@
 
 ## Hobby( What make me relax )
 > #### [Photo](https://sophiahwb.wixsite.com/my-site-1)
-> #### [Reading book]()
+> #### [Reading book](https://theprosetrain.com/)
