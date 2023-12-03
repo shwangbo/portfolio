@@ -64,9 +64,9 @@
 >
 > #### Outside of School Volunteering
 > - [DreamCatchers](https://www.dreamcatchersyouth.org/)
->   - 설명과 너에게 이 봉사의 의미,좋았던 점 
+>   -  
 > - [Prosetrain]()
->   - 설명 
+>   -  
 > - [JAMMA Tennis Clinic](https://jammatennis.com/) <br>
 >   - Organization of student-run tennis clinics hosted across schools in the Bay Area
 >   - Participated as a coach for tennis clinic at Gunn; led drills and games; trained players to improve the physical and social behavior of all students
